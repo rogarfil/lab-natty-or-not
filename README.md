@@ -15,7 +15,7 @@ Para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refi
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Generativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-**[LINK PARA O E-BOOK AQUI]()**
+**[LINK PARA O E-BOOK AQUI](https://github.com/rogarfil/lab-natty-or-not/blob/main/ebook-Inteligencia_Artificial_no_Nosso_Cotidiano.pdf)**
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos. Essa jornada mostrou que as IAs não são apenas ferramentas técnicas, mas também parceiras criativas capazes de transformar a maneira como desenvolvemos e compartilhamos conhecimento.
